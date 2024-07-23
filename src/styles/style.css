@@ -20,7 +20,8 @@ body {
   font-size: 18px;
   font-weight: 300;
   text-align: center;
-  color: var(--clr-Dark-Blue);
+  color: var(--clr-Dark-Blue);  
+  background-color: var(--clr-Very-Light-Gray);
 }
 
 .cta {
@@ -181,7 +182,6 @@ p {
 }
 
 .cards {
-  background-color: var(--clr-Very-Light-Gray);
   width: 100%;
   padding: 2rem;
 }
