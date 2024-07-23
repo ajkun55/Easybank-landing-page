@@ -36,7 +36,7 @@ export default function Footer() {
             Frontend Mentor
           </a>
           . Coded by
-          <a href="https://github.com/ajkun55/Todo-app-Frontend-Mentor-Challenge-using-React">
+          <a href="https://github.com/ajkun55/Easybank-landing-page">
             John A
           </a>
           .
